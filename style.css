@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+
+*{margin:0;
+ padding:0;
+ box-sizing:border-box;}
+/*  body  */
+body{
+  background:#6666ff;
+  
+}
+style the button */
+button {
+  background:#fff333;
+  font-weight: 600;
+  border: 1px solid #828282;
+ height :70px;
+ border-radius:0;
+   margin-left: 40%;
+  margin-top:-1.5%; 
+  width: 260px;
+
+           
+}
+
+ul, a{
+  color: white;
+  font-weight: 800;
+ text-transform: uppercase;
+ letter-spacing: 4px;
+ font-size: 18px;
+}
+ul,li{
+  list-style: none;
+  display: flex;
+  position: relative;
+  margin: 20px 80px 20px 20px;
+align-items: center;
+
+}
+h2{
+  font-weight: 300px;
+}
+
+h2, p{
+ color: white;
+  font-size: 20px;
+   text-align : center;
+}
+
+
+
+.winter{
+  height: 400px;
+  width:100% ;
+  background :url(img/6.jpeg );
+  background-size: cover;
+  
+}
+
+.span{
+font-weight:1800px;
+  opacity: 1;
+}
+
+.lab{
+  position: relative;
+  opacity: 0.8;  
+}
+
+.lab span{
+  position: absolute;
+  color : #fff;
+  font-weight: 800px;
+  height: 50px;
+  width:100%;
+  margin : 150px auto ;
+  background :#95c8f0;
+  align-content: center ;
+  justify-content: center ;
+  align-items: center ;
+  text-align : center;
+}
+
+
+
+  
+
+
+.register{
+    color: black;
+}
+
+.dates{
+  height: 90px;
+  width: 100%;
+  background-color: #d1d1d1;
+   align-items: center ;
+  text-align : center;
+  margin-top:-2%;
+  padding-top: 5px;
+  margin-bottom:20px;
+  }
+
+.dates p{
+  text-transform: uppercase;
+  margin-top:20px;
+  font-weight:800;
+ letter-spacing:3px;
+  word-spacing:8px;
+}
+.menu{
+  width:100%;
+  height:auto;
+  display:flex;
+  font-size:24px;
+}
+.menu img{
+  width:100%;
+  height:auto;
+}
+.lessons, 
+.analysis,
+.drills {
+  width:33.3%;
+  height: auto;
+  margin:22px 5px 20px 5px;
+}
+.others {
+  margin-left:30px;
+  display:block;
+  width:50%;
+  font-size:24px;
+  margin-top:30px;
+  margin-bottom:20px;
+}
+.others img{
+  width:100%;
+  height: auto;
+}
+/* */
+
+.others  {
+  font-family: 'Secular One';
+   width:33.3%;
+  height: auto;
+  
+}
+
+.others p {
+  font-family: 'Secular One';
+  
+  
+}
+
+
+.others button {
+  align-items: center;
+  
+}
